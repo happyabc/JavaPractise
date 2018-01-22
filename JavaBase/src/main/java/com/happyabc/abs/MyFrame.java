@@ -1,7 +1,6 @@
-package com.happyabc.test;
+package com.happyabc.abs;
 
-public class MyFrame implements IMyFrame {
-
+public class MyFrame extends AbaMyFrame {
     @Override
     public void paint() {
         // TODO Auto-generated method stub

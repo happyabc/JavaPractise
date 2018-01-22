@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="echart" />
+        <module name="JavaBase" />
         <module name="jcip" />
         <module name="json" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="echart" target="1.5" />
+      <module name="JavaBase" target="1.5" />
       <module name="jcip" target="1.5" />
       <module name="json" target="1.5" />
     </bytecodeTargetLevel>

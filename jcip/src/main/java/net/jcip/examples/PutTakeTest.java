@@ -8,7 +8,7 @@ import junit.framework.TestCase;
 /**
  * PutTakeTest
  * <p/>
- * Producer-consumer test program for BoundedBuffer
+ * Producer-consumer impl program for BoundedBuffer
  *
  * @author Brian Goetz and Tim Peierls
  */
