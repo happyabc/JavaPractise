@@ -7,5 +7,13 @@ public class MyFrame extends AbaMyFrame {
         System.out.print("MyFrame is paint");
 
     }
+     @Override
+    String getResult() {
+        return null;
+    }
+    @Override
+    int add() {
+        return 0;
+    }
 
 }
