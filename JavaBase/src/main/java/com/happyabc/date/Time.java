@@ -10,5 +10,7 @@ public class Time {
         Date date=new Date(100000000);
         System.out.println(date);
 
+       long current=date.getTime();
+        System.out.println(current);
     }
 }
