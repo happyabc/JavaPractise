@@ -8,7 +8,7 @@
 <body>
 
 <a href="demo/demo01.jsp">demo1</a><br/>
-<a href="demo/demo01.jsp">demo2</a><br/>
+<a href="demo/demo02.jsp">demo2</a><br/>
 
 </body>
 </html>
