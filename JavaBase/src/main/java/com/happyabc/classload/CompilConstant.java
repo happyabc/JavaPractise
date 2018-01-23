@@ -17,4 +17,8 @@ class Test {
     }
     public static final int a =10;
     public static final int c = "test".length();
+    public void a(String str){
+        final  int a=(int)(Math.random());
+        final  int b=str.length();
+    }
 }
