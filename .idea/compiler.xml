@@ -11,6 +11,7 @@
         <module name="jcip" />
         <module name="json" />
         <module name="ui-layerui" />
+        <module name="ui-vue" />
       </profile>
       <profile name="Annotation profile for ui-layerui" enabled="true">
         <sourceOutputDir name="../ui-layerui/target/generated-sources/annotations" />
@@ -20,11 +21,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="echart" target="1.5" />
-      <module name="JavaBase" target="1.5" />
-      <module name="jcip" target="1.5" />
-      <module name="json" target="1.5" />
+      <module name="JavaBase" target="1.7" />
+      <module name="jcip" target="1.7" />
+      <module name="json" target="1.7" />
       <module name="ui-layui" target="1.8" />
+      <module name="ui-vue" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
