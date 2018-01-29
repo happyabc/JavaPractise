@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/echart/echart.iml" filepath="$PROJECT_DIR$/echart/echart.iml" />
       <module fileurl="file://$PROJECT_DIR$/jcip/jcip.iml" filepath="$PROJECT_DIR$/jcip/jcip.iml" />
       <module fileurl="file://$PROJECT_DIR$/json/json.iml" filepath="$PROJECT_DIR$/json/json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui-layui/ui-layui.iml" filepath="$PROJECT_DIR$/ui-layui/ui-layui.iml" />
     </modules>
   </component>
 </project>

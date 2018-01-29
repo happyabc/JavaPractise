@@ -10,6 +10,13 @@
         <module name="JavaBase" />
         <module name="jcip" />
         <module name="json" />
+        <module name="ui-layerui" />
+      </profile>
+      <profile name="Annotation profile for ui-layerui" enabled="true">
+        <sourceOutputDir name="../ui-layerui/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../ui-layerui/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ui-layui" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +24,7 @@
       <module name="JavaBase" target="1.5" />
       <module name="jcip" target="1.5" />
       <module name="json" target="1.5" />
+      <module name="ui-layui" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

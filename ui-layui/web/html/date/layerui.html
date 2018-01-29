@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>开始使用layui</title>
+    <link rel="stylesheet" href="../../static/layui/css/layui.css">
+    <script src="../../static/layui/layui.all.js"></script>
+</head>
+<body style="text-align: center;">
+
+<!-- 你的HTML代码 -->
+<div class="layui-inline">
+    <!-- 注意：这一层元素并不是必须的 -->
+    <input type="text" class="layui-input" id="test1">
+    <input type="text" class="layui-input" id="test2">
+</div>
+<script>
+    //一般直接写在一个js文件中
+    layui.use('laydate', function () {
+        //var laydate = layui.laydate;
+
+        //执行一个laydate实例
+        layui.laydate.render({
+            elem: '#test1' //指定元素
+        });
+
+        //执行一个laydate实例
+        layui.laydate.render({
+            elem: '#test2' //指定元素
+            ,
+            type: 'time'
+        });
+    });
+</script>
+</body>
+
+</html>
