@@ -8,8 +8,6 @@
       <root url="jar://$PROJECT_DIR$/json/lib/spring-web-4.3.13.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES>
-      <root url="jar://$USER_HOME$/.ideaLibSources/spring-webmvc-4.3.13.RELEASE-sources.jar!/" />
-    </SOURCES>
+    <SOURCES />
   </library>
 </component>
