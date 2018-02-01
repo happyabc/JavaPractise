@@ -24,6 +24,7 @@
       <module name="JavaBase" target="1.7" />
       <module name="jcip" target="1.7" />
       <module name="json" target="1.7" />
+      <module name="mybatis" target="1.7" />
       <module name="ui-layui" target="1.8" />
       <module name="ui-vue" target="1.7" />
     </bytecodeTargetLevel>
