@@ -14,6 +14,10 @@
       <module fileurl="file://$PROJECT_DIR$/SocketIO_01/SocketIO_01.iml" filepath="$PROJECT_DIR$/SocketIO_01/SocketIO_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/jcip/jcip.iml" filepath="$PROJECT_DIR$/jcip/jcip.iml" />
       <module fileurl="file://$PROJECT_DIR$/json/json.iml" filepath="$PROJECT_DIR$/json/json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juc-day01/juc-day01.iml" filepath="$PROJECT_DIR$/juc-day01/juc-day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juc-day02/juc-day02.iml" filepath="$PROJECT_DIR$/juc-day02/juc-day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nio-day01/nio-day01.iml" filepath="$PROJECT_DIR$/nio-day01/nio-day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nio-day02/nio-day02.iml" filepath="$PROJECT_DIR$/nio-day02/nio-day02.iml" />
       <module fileurl="file://$PROJECT_DIR$/ui-echart/ui-echart.iml" filepath="$PROJECT_DIR$/ui-echart/ui-echart.iml" />
       <module fileurl="file://$PROJECT_DIR$/ui-layui/ui-layui.iml" filepath="$PROJECT_DIR$/ui-layui/ui-layui.iml" />
       <module fileurl="file://$PROJECT_DIR$/ui-vue/ui-vue.iml" filepath="$PROJECT_DIR$/ui-vue/ui-vue.iml" />
