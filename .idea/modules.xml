@@ -8,7 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/Multi001/Multi001.iml" filepath="$PROJECT_DIR$/Multi001/Multi001.iml" />
       <module fileurl="file://$PROJECT_DIR$/SocketIO_01/SocketIO_01.iml" filepath="$PROJECT_DIR$/SocketIO_01/SocketIO_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/jcip/jcip.iml" filepath="$PROJECT_DIR$/jcip/jcip.iml" />
-      <module fileurl="file://$PROJECT_DIR$/json/json.iml" filepath="$PROJECT_DIR$/json/json.iml" />
       <module fileurl="file://$PROJECT_DIR$/juc-day01/juc-day01.iml" filepath="$PROJECT_DIR$/juc-day01/juc-day01.iml" />
       <module fileurl="file://$PROJECT_DIR$/nio-day01/nio-day01.iml" filepath="$PROJECT_DIR$/nio-day01/nio-day01.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-demo/thread-demo.iml" filepath="$PROJECT_DIR$/thread-demo/thread-demo.iml" />

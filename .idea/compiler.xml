@@ -9,7 +9,6 @@
         <module name="echart" />
         <module name="JavaBase" />
         <module name="jcip" />
-        <module name="json" />
         <module name="nio-day01" />
         <module name="ui-layerui" />
         <module name="ui-vue" />

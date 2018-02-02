@@ -4,7 +4,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/jcip/pom.xml" />
-        <option value="$PROJECT_DIR$/json/pom.xml" />
         <option value="$PROJECT_DIR$/echart/pom.xml" />
         <option value="$PROJECT_DIR$/JavaBase/pom.xml" />
         <option value="$PROJECT_DIR$/ui-layerui/pom.xml" />
