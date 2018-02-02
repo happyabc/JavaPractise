@@ -10,6 +10,7 @@
         <module name="echart" />
         <module name="jcip" />
         <module name="nio-day01" />
+        <module name="thread-disruptor" />
         <module name="ui-layerui" />
         <module name="ui-vue" />
       </profile>
@@ -26,6 +27,7 @@
       <module name="jcip" target="1.7" />
       <module name="json" target="1.7" />
       <module name="nio-day01" target="1.7" />
+      <module name="thread-disruptor" target="1.7" />
       <module name="ui-jquery" target="1.7" />
       <module name="ui-layui" target="1.8" />
       <module name="ui-vue" target="1.7" />

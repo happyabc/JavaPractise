@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/ui-vue/pom.xml" />
         <option value="$PROJECT_DIR$/nio-day01/pom.xml" />
         <option value="$PROJECT_DIR$/base/pom.xml" />
+        <option value="$PROJECT_DIR$/thread-disruptor/pom.xml" />
       </list>
     </option>
   </component>
