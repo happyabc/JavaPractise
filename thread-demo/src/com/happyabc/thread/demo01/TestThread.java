@@ -7,10 +7,10 @@ class TestThread {
         /**
          * 这里是两个线程对象，执行自己各自的方法栈
          */
-        TicketThread ticketThread = new TicketThread();
-        TicketThread ticketThread2 = new TicketThread();
-        ticketThread.start();
-        ticketThread2.start();
+        TicketThread t1 = new TicketThread();
+        TicketThread t2 = new TicketThread();
+        t1.start();
+        t2.start();
     }
 }
 

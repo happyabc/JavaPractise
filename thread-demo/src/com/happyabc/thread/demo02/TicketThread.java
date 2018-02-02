@@ -1,10 +1,10 @@
 package com.happyabc.thread.demo02;
 
 public class TicketThread implements Runnable {
-    private int num = 20;
+    private  int num = 20;
 
     @Override
-    public void run() {
+    public  void run() {
         while (true) {
             synchronized (this){
                 try {
@@ -12,7 +12,7 @@ public class TicketThread implements Runnable {
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
-                if (num <= 0) {
+                if (num == 0) {
                     return;
                 } else {
                     num--;

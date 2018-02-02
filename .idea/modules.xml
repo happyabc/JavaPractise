@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Disruptor/Disruptor.iml" filepath="$PROJECT_DIR$/Disruptor/Disruptor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaBase/JavaBase.iml" filepath="$PROJECT_DIR$/JavaBase/JavaBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPractise01.iml" filepath="$PROJECT_DIR$/JavaPractise01.iml" />
       <module fileurl="file://$PROJECT_DIR$/SocketIO_01/SocketIO_01.iml" filepath="$PROJECT_DIR$/SocketIO_01/SocketIO_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
       <module fileurl="file://$PROJECT_DIR$/nio-day01/nio-day01.iml" filepath="$PROJECT_DIR$/nio-day01/nio-day01.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-demo/thread-demo.iml" filepath="$PROJECT_DIR$/thread-demo/thread-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-jcip/thread-jcip.iml" filepath="$PROJECT_DIR$/thread-jcip/thread-jcip.iml" />
@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/ui-echart/ui-echart.iml" filepath="$PROJECT_DIR$/ui-echart/ui-echart.iml" />
       <module fileurl="file://$PROJECT_DIR$/ui-layui/ui-layui.iml" filepath="$PROJECT_DIR$/ui-layui/ui-layui.iml" />
       <module fileurl="file://$PROJECT_DIR$/ui-vue/ui-vue.iml" filepath="$PROJECT_DIR$/ui-vue/ui-vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-servlet/web-servlet.iml" filepath="$PROJECT_DIR$/web-servlet/web-servlet.iml" />
     </modules>
   </component>
 </project>

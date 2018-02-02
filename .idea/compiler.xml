@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="base" />
         <module name="echart" />
-        <module name="JavaBase" />
         <module name="jcip" />
         <module name="nio-day01" />
         <module name="ui-layerui" />
@@ -21,10 +21,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="base" target="1.7" />
       <module name="JavaBase" target="1.7" />
       <module name="jcip" target="1.7" />
       <module name="json" target="1.7" />
       <module name="nio-day01" target="1.7" />
+      <module name="ui-jquery" target="1.7" />
       <module name="ui-layui" target="1.8" />
       <module name="ui-vue" target="1.7" />
     </bytecodeTargetLevel>

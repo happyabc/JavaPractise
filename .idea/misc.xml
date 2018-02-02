@@ -5,10 +5,10 @@
       <list>
         <option value="$PROJECT_DIR$/jcip/pom.xml" />
         <option value="$PROJECT_DIR$/echart/pom.xml" />
-        <option value="$PROJECT_DIR$/JavaBase/pom.xml" />
         <option value="$PROJECT_DIR$/ui-layerui/pom.xml" />
         <option value="$PROJECT_DIR$/ui-vue/pom.xml" />
         <option value="$PROJECT_DIR$/nio-day01/pom.xml" />
+        <option value="$PROJECT_DIR$/base/pom.xml" />
       </list>
     </option>
   </component>
