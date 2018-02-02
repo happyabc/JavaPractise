@@ -6,18 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/JavaBase/JavaBase.iml" filepath="$PROJECT_DIR$/JavaBase/JavaBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPractise01.iml" filepath="$PROJECT_DIR$/JavaPractise01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multi001/Multi001.iml" filepath="$PROJECT_DIR$/Multi001/Multi001.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Multi002/Multi002.iml" filepath="$PROJECT_DIR$/Multi002/Multi002.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Multi003/Multi003.iml" filepath="$PROJECT_DIR$/Multi003/Multi003.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Multi004/Multi004.iml" filepath="$PROJECT_DIR$/Multi004/Multi004.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Multi005/Multi005.iml" filepath="$PROJECT_DIR$/Multi005/Multi005.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Multi006/Multi006.iml" filepath="$PROJECT_DIR$/Multi006/Multi006.iml" />
       <module fileurl="file://$PROJECT_DIR$/SocketIO_01/SocketIO_01.iml" filepath="$PROJECT_DIR$/SocketIO_01/SocketIO_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/jcip/jcip.iml" filepath="$PROJECT_DIR$/jcip/jcip.iml" />
       <module fileurl="file://$PROJECT_DIR$/json/json.iml" filepath="$PROJECT_DIR$/json/json.iml" />
       <module fileurl="file://$PROJECT_DIR$/juc-day01/juc-day01.iml" filepath="$PROJECT_DIR$/juc-day01/juc-day01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/juc-day02/juc-day02.iml" filepath="$PROJECT_DIR$/juc-day02/juc-day02.iml" />
       <module fileurl="file://$PROJECT_DIR$/nio-day01/nio-day01.iml" filepath="$PROJECT_DIR$/nio-day01/nio-day01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nio-day02/nio-day02.iml" filepath="$PROJECT_DIR$/nio-day02/nio-day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-demo/thread-demo.iml" filepath="$PROJECT_DIR$/thread-demo/thread-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ui-echart/ui-echart.iml" filepath="$PROJECT_DIR$/ui-echart/ui-echart.iml" />
       <module fileurl="file://$PROJECT_DIR$/ui-layui/ui-layui.iml" filepath="$PROJECT_DIR$/ui-layui/ui-layui.iml" />
       <module fileurl="file://$PROJECT_DIR$/ui-vue/ui-vue.iml" filepath="$PROJECT_DIR$/ui-vue/ui-vue.iml" />

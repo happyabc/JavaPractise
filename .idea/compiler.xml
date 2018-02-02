@@ -10,6 +10,7 @@
         <module name="JavaBase" />
         <module name="jcip" />
         <module name="json" />
+        <module name="nio-day01" />
         <module name="ui-layerui" />
         <module name="ui-vue" />
       </profile>
@@ -21,11 +22,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="JavaBase" target="1.5" />
-      <module name="jcip" target="1.5" />
-      <module name="json" target="1.5" />
+      <module name="JavaBase" target="1.7" />
+      <module name="jcip" target="1.7" />
+      <module name="json" target="1.7" />
+      <module name="nio-day01" target="1.7" />
       <module name="ui-layui" target="1.8" />
-      <module name="ui-vue" target="1.5" />
+      <module name="ui-vue" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
