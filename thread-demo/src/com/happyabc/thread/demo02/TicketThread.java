@@ -8,7 +8,7 @@ public class TicketThread implements Runnable {
         while (true) {
             synchronized (this){
                 try {
-                    Thread.sleep(1000);
+                    Thread.sleep(3000);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }

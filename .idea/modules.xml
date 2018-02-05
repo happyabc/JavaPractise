@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/nio-day01/nio-day01.iml" filepath="$PROJECT_DIR$/nio-day01/nio-day01.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-demo/thread-demo.iml" filepath="$PROJECT_DIR$/thread-demo/thread-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-disruptor/thread-disruptor.iml" filepath="$PROJECT_DIR$/thread-disruptor/thread-disruptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-java/thread-java.iml" filepath="$PROJECT_DIR$/thread-java/thread-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-jcip/thread-jcip.iml" filepath="$PROJECT_DIR$/thread-jcip/thread-jcip.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-juc/thread-juc.iml" filepath="$PROJECT_DIR$/thread-juc/thread-juc.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-multi/thread-multi.iml" filepath="$PROJECT_DIR$/thread-multi/thread-multi.iml" />
