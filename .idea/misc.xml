@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/base/pom.xml" />
         <option value="$PROJECT_DIR$/thread-disruptor/pom.xml" />
         <option value="$PROJECT_DIR$/thread-java/pom.xml" />
+        <option value="$PROJECT_DIR$/thread-akka/pom.xml" />
       </list>
     </option>
   </component>

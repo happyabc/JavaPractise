@@ -2,7 +2,12 @@ package geym.conc.ch2.group;
 
 public class ThreadGroupName implements Runnable {
 	public static void main(String[] args) {
+		/*
+		  1:
+		 */
+		//1：先声明一个线程组
 		ThreadGroup tg = new ThreadGroup("PrintGroup");
+		//2:线程加入到线程组中，并给某个线程起名称
 		Thread t1 = new Thread(tg, new ThreadGroupName(), "T1");
 		Thread t2 = new Thread(tg, new ThreadGroupName(), "T2");
 		t1.start();

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/thread-java/src/main/java/geym/conc/ch2/inter/InterruputSleepThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/thread-java/src/main/java/geym/conc/ch2/inter/InterruputThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/thread-java/src/main/java/geym/conc/ch2/inter/InterruputThread2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/thread-java/src/main/java/geym/conc/ch2/notsafe/HashMapMultiThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/thread-java/src/main/java/geym/conc/ch2/priority/PriorityDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/thread-java/src/main/java/geym/conc/ch2/stop/StopThreadSafe2.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/thread-java/src/main/java/geym/conc/ch4/deadlock/DeadLock.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/thread-java/src/main/java/geym/conc/ch6/completable/CFutureMain6.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/ui-vue" charset="UTF-8" />

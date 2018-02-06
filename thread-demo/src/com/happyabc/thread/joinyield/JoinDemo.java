@@ -15,7 +15,8 @@ public class JoinDemo implements Runnable {
         Thread j = new Thread(joinDemo);
         j.start();
         try {
-           // j.join();    加上是1000 不 加是0 或者很小的事情
+            j.join();    //加上是1000 不 加是0 或者很小的事情
+            //在谁中调用，那个线程进入阻塞状态
         } catch (Exception e) {
             e.printStackTrace();
         }

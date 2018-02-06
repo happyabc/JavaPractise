@@ -2,9 +2,7 @@
 package geym.conc.ch2.stop;
 
 /**
- * 
  * @author geym
- *
  */
 public class StopThreadSafe {
     public static User u = new User();
@@ -43,14 +41,15 @@ public class StopThreadSafe {
 
     public static class ChangeObjectThread extends Thread {
         volatile boolean stopme = false;
-        
-        public void stopMe(){
+
+        public void stopMe() {
             stopme = true;
         }
+
         @Override
         public void run() {
             while (true) {
-                if (stopme){
+                if (stopme) {
                     System.out.println("exit by stop me");
                     break;
                 }

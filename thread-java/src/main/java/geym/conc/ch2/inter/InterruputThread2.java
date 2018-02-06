@@ -12,11 +12,14 @@ public class InterruputThread2 {
 			@Override
 			public void run(){
 				while(true){
+					System.out.println(Thread.currentThread().getName()+" is "+Thread.currentThread().isInterrupted());
 					Thread.yield();
 				}
 			}
+
 		};
 		t1.start();
+		System.out.println(Thread.currentThread().getName()+" is "+Thread.currentThread().isInterrupted());
 		Thread.sleep(2000);
 		t1.interrupt();
 	}

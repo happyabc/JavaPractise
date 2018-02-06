@@ -4,7 +4,7 @@ package geym.conc.ch2.notsafe;
 import java.util.ArrayList;
 
 public class ArrayListMultiThread {
-    static ArrayList<Integer> al = new ArrayList<Integer>(10);
+    static  ArrayList<Integer> al = new ArrayList<Integer>(10);
     public static class AddThread implements Runnable {
         @Override
         public void run() {
