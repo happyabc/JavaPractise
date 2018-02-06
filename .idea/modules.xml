@@ -4,9 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaPractise01.iml" filepath="$PROJECT_DIR$/JavaPractise01.iml" />
       <module fileurl="file://$PROJECT_DIR$/SocketIO_01/SocketIO_01.iml" filepath="$PROJECT_DIR$/SocketIO_01/SocketIO_01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/akka/akka.iml" filepath="$PROJECT_DIR$/akka/akka.iml" />
       <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
       <module fileurl="file://$PROJECT_DIR$/nio-day01/nio-day01.iml" filepath="$PROJECT_DIR$/nio-day01/nio-day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-akka/thread-akka.iml" filepath="$PROJECT_DIR$/thread-akka/thread-akka.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-demo/thread-demo.iml" filepath="$PROJECT_DIR$/thread-demo/thread-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-disruptor/thread-disruptor.iml" filepath="$PROJECT_DIR$/thread-disruptor/thread-disruptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-java/thread-java.iml" filepath="$PROJECT_DIR$/thread-java/thread-java.iml" />

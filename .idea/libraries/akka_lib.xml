@@ -1,28 +1,28 @@
 <component name="libraryTable">
   <library name="akka-lib">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/akka/lib/akka-actor_2.11-2.3.7.jar!/" />
-      <root url="jar://$PROJECT_DIR$/akka/lib/akka-agent_2.11-2.3.7.jar!/" />
-      <root url="jar://$PROJECT_DIR$/akka/lib/akka-cluster_2.11-2.3.7.jar!/" />
-      <root url="jar://$PROJECT_DIR$/akka/lib/akka-contrib_2.11-2.3.7.jar!/" />
-      <root url="jar://$PROJECT_DIR$/akka/lib/akka-kernel_2.11-2.3.7.jar!/" />
-      <root url="jar://$PROJECT_DIR$/akka/lib/akka-remote_2.11-2.3.7.jar!/" />
-      <root url="jar://$PROJECT_DIR$/akka/lib/akka-transactor_2.11-2.3.7.jar!/" />
-      <root url="jar://$PROJECT_DIR$/akka/lib/config-1.2.1.jar!/" />
-      <root url="jar://$PROJECT_DIR$/akka/lib/netty-3.8.0.Final.jar!/" />
-      <root url="jar://$PROJECT_DIR$/akka/lib/protobuf-java-2.5.0.jar!/" />
-      <root url="jar://$PROJECT_DIR$/akka/lib/scala-library-2.11.4.jar!/" />
-      <root url="jar://$PROJECT_DIR$/akka/lib/scala-stm_2.11-0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/akka-actor_2.11-2.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/akka-agent_2.11-2.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/akka-cluster_2.11-2.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/akka-contrib_2.11-2.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/akka-kernel_2.11-2.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/akka-remote_2.11-2.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/akka-transactor_2.11-2.3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/config-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/netty-3.8.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/protobuf-java-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/scala-library-2.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/scala-stm_2.11-0.7.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/akka/lib/akka-actor_2.11-2.3.7-javadoc.jar!/" />
-      <root url="jar://$PROJECT_DIR$/akka/lib/akka-cluster_2.11-2.3.7-javadoc.jar!/" />
-      <root url="jar://$PROJECT_DIR$/akka/lib/akka-contrib_2.11-2.3.7-javadoc.jar!/" />
-      <root url="jar://$PROJECT_DIR$/akka/lib/akka-remote_2.11-2.3.7-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/akka-actor_2.11-2.3.7-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/akka-cluster_2.11-2.3.7-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/akka-contrib_2.11-2.3.7-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/akka-remote_2.11-2.3.7-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/akka/lib/akka-actor_2.11-2.3.7-sources.jar!/" />
-      <root url="jar://$PROJECT_DIR$/akka/lib/akka-contrib_2.11-2.3.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/akka-actor_2.11-2.3.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/thread-akka/lib/akka-contrib_2.11-2.3.7-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
