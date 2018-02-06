@@ -10,6 +10,7 @@
         <module name="echart" />
         <module name="jcip" />
         <module name="nio-day01" />
+        <module name="spring" />
         <module name="thread-disruptor" />
         <module name="thread-java" />
         <module name="thread-juc" />
@@ -24,14 +25,15 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="base" target="1.8" />
-      <module name="nio-day01" target="1.8" />
+      <module name="base" target="1.7" />
+      <module name="nio-day01" target="1.7" />
+      <module name="spring" target="1.7" />
       <module name="thread-akka" target="1.8" />
-      <module name="thread-disruptor" target="1.8" />
-      <module name="thread-java" target="1.8" />
-      <module name="thread-juc" target="1.8" />
+      <module name="thread-disruptor" target="1.7" />
+      <module name="thread-java" target="1.7" />
+      <module name="thread-juc" target="1.7" />
       <module name="ui-layui" target="1.8" />
-      <module name="ui-vue" target="1.8" />
+      <module name="ui-vue" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

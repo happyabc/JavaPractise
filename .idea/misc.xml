@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/thread-java/pom.xml" />
         <option value="$PROJECT_DIR$/thread-akka/pom.xml" />
         <option value="$PROJECT_DIR$/thread-juc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/pom.xml" />
       </list>
     </option>
   </component>

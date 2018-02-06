@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/SocketIO_01/SocketIO_01.iml" filepath="$PROJECT_DIR$/SocketIO_01/SocketIO_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
       <module fileurl="file://$PROJECT_DIR$/nio-day01/nio-day01.iml" filepath="$PROJECT_DIR$/nio-day01/nio-day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-akka/thread-akka.iml" filepath="$PROJECT_DIR$/thread-akka/thread-akka.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-demo/thread-demo.iml" filepath="$PROJECT_DIR$/thread-demo/thread-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread-disruptor/thread-disruptor.iml" filepath="$PROJECT_DIR$/thread-disruptor/thread-disruptor.iml" />
