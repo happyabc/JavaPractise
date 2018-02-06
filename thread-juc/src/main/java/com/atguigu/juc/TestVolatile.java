@@ -11,7 +11,7 @@ package com.atguigu.juc;
 public class TestVolatile {
 	
 	public static void main(String[] args) {
-		ThreadDemo td = new ThreadDemo();
+		com.atguigu.juc2.ThreadDemo td = new com.atguigu.juc2.ThreadDemo();
 		new Thread(td).start();
 		
 		while(true){
