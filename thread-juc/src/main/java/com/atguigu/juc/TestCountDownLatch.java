@@ -43,7 +43,7 @@ class LatchDemo implements Runnable {
 		try {
 			for (int i = 0; i < 50000; i++) {
 				if (i % 2 == 0) {
-					System.out.println(i);
+//					System.out.println(i);
 				}
 			}
 		} finally {
